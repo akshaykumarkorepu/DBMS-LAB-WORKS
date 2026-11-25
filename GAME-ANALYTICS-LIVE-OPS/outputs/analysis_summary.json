@@ -1,0 +1,39 @@
+{
+  "student": "Akshay kumar korepu",
+  "roll_number": "24MAB0A03",
+  "institution": "National Institute of Technology Warangal",
+  "course": "DBMS Lab",
+  "instructor": "Dr. Vikas Srivastava",
+  "rows": {
+    "player_profile": 80295,
+    "player_day": 667435,
+    "purchase_raw": 15426,
+    "purchase_deduplicated": 15304,
+    "currency_spend": 489892,
+    "ad_view": 647623
+  },
+  "purchase": {
+    "gross_positive_usd": 217593.22000000003,
+    "negative_usd": -3249.7400000000002,
+    "net_usd": 214343.48
+  },
+  "arpdau": {
+    "first_30d": 0.3543159223607385,
+    "last_30d": 0.29580459790438535,
+    "pct_change": -0.16513885141402485,
+    "within_effect": 0.018615699985246294,
+    "mix_effect": -0.07712702444159944
+  },
+  "acquisition": {
+    "n": 37489,
+    "adjusted_paid_video_ltv_difference": -0.14075343314320496,
+    "adjusted_paid_video_ltv_p_value": 0.36554054231919675
+  },
+  "churn": {
+    "train_n": 29921,
+    "test_n": 37455,
+    "test_churn_rate": 0.19145641436390334,
+    "roc_auc": 0.7567827499448764,
+    "pr_auc": 0.41978489740382813
+  }
+}
